@@ -6,7 +6,6 @@ ByteWatch is a lightweight Windows system tray utility built with Python that mo
 - **System Tray Integration:** (`app.pyw`).
 - **Per-Application Tracking:** Monitors upload and download bandwidth broken down by individual Windows executables.
 - **Persistent Local Storage:** Logs historical daily usage locally using SQLite (`data_layer.py`).
-- **One-Click Launch:** Includes a Windows batch launcher (`run.bat`) for quick startup.
 
 ## Project Structure
 - `app.pyw` — Main GUI and system tray application.
