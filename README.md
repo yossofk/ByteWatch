@@ -17,5 +17,5 @@ ByteWatch is a lightweight Windows system tray utility built with Python that mo
 
 1. **Clone or download the repository:**
    ```bash
-   git clone [https://github.com/yossofk/ByteWatch.git](https://github.com/yossofk/ByteWatch.git)
+   git clone https://github.com/yossofk/ByteWatch.git
    cd bytewatch
